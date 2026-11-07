@@ -538,5 +538,65 @@
         "file": "images/yselle-flustered.png"
       }
     ]
+  },
+  {
+    "character": "Garran Holt",
+    "slug": "garran",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/garran-portrait.png",
+        "file": "images/garran-portrait.png"
+      }
+    ]
+  },
+  {
+    "character": "Lucien Vale",
+    "slug": "lucien",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/lucien-portrait.png",
+        "file": "images/lucien-portrait.png"
+      }
+    ]
+  },
+  {
+    "character": "Brother Odran Pell",
+    "slug": "odran",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/odran-portrait.png",
+        "file": "images/odran-portrait.png"
+      }
+    ]
+  },
+  {
+    "character": "Dain Rook",
+    "slug": "dain",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/dain-portrait.png",
+        "file": "images/dain-portrait.png"
+      }
+    ]
+  },
+  {
+    "character": "Cael Aster",
+    "slug": "cael",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/cael-portrait.png",
+        "file": "images/cael-portrait.png"
+      }
+    ]
   }
 ]

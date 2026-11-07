@@ -1,10 +1,10 @@
 # Ashes of the Saints — Character Gallery
 
-80 anime dark fantasy illustrations: eight states for each of ten adult female characters.
+85 illustrations in a unified polished anime style: eight states for each of ten adult female characters, plus five male portraits.
 
-Images were created with built-in OpenAI ImageGen using the established character portraits as identity references.
+Created with built-in OpenAI ImageGen. Character identities, distinct emotions and scene settings are preserved. Nerissa uses her approved charcoal-skinned demon design; Vespera has a petite adult build.
 
-Use [manifest.json](manifest.json) for all direct image URLs. [OOC visual notes](ooc-visual-notes.json) contain selection rules for all eight states. Excited means enthusiasm; flirty means self-chosen romantic interest.
+Use [manifest.json](manifest.json) for direct image URLs. Existing image paths remain unchanged. [OOC visual notes](ooc-visual-notes.json) contain the eight-state selection rules for the female cast.
 
 ## Vaerra Stormscar
 
@@ -126,10 +126,45 @@ Use [manifest.json](manifest.json) for all direct image URLs. [OOC visual notes]
 | <a href="images/yselle-excited.png"><img src="images/yselle-excited.png" width="180" alt="Yselle Thorne — enthusiastic anticipation or delight"></a> | <a href="images/yselle-flirty.png"><img src="images/yselle-flirty.png" width="180" alt="Yselle Thorne — self-chosen playful romantic interest"></a> | <a href="images/yselle-angry.png"><img src="images/yselle-angry.png" width="180" alt="Yselle Thorne — clear anger or firm confrontation"></a> | <a href="images/yselle-flustered.png"><img src="images/yselle-flustered.png" width="180" alt="Yselle Thorne — bashful surprise after a compliment"></a> |
 | enthusiastic anticipation or delight | self-chosen playful romantic interest | clear anger or firm confrontation | bashful surprise after a compliment |
 
+## Garran Holt
+
+| Portrait |
+| --- |
+| <a href="images/garran-portrait.png"><img src="images/garran-portrait.png" width="180" alt="Garran Holt — default portrait"></a> |
+| default portrait |
+
+## Lucien Vale
+
+| Portrait |
+| --- |
+| <a href="images/lucien-portrait.png"><img src="images/lucien-portrait.png" width="180" alt="Lucien Vale — default portrait"></a> |
+| default portrait |
+
+## Brother Odran Pell
+
+| Portrait |
+| --- |
+| <a href="images/odran-portrait.png"><img src="images/odran-portrait.png" width="180" alt="Brother Odran Pell — default portrait"></a> |
+| default portrait |
+
+## Dain Rook
+
+| Portrait |
+| --- |
+| <a href="images/dain-portrait.png"><img src="images/dain-portrait.png" width="180" alt="Dain Rook — default portrait"></a> |
+| default portrait |
+
+## Cael Aster
+
+| Portrait |
+| --- |
+| <a href="images/cael-portrait.png"><img src="images/cael-portrait.png" width="180" alt="Cael Aster — default portrait"></a> |
+| default portrait |
+
 ## Direct image syntax
 
 ```md
 ![](https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-flirty.png)
 ```
 
-Available suffixes: `portrait`, `warm`, `tense`, `action`, `excited`, `flirty`, `angry`, `flustered`. Keep image choice consistent with the current scene and relationship; use at most one image total per reply and skip immediate repeats. Do not invent file names or force events to match an illustration.
+Female character suffixes: `portrait`, `warm`, `tense`, `action`, `excited`, `flirty`, `angry`, `flustered`. Male portraits use `portrait` only. Excited means enthusiasm; flirty means self-chosen romantic interest. Keep image choice consistent with the current scene and relationship; use at most one image total per reply and skip immediate repeats. Do not invent file names or force events to match an illustration.
