@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Visuals - Vaerra Stormscar",
+    "keywords": [
+      "Vaerra Stormscar",
+      "Vaerra"
+    ],
+    "content": "Vaerra Stormscar visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-portrait.png\nrare campfire smile: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-warm.png\nangry confrontation: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-tense.png\nstormy bridge battle: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "rare campfire smile",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "angry confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "stormy bridge battle",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Lady Vespera Nhal",
+    "keywords": [
+      "Lady Vespera Nhal",
+      "Vespera"
+    ],
+    "content": "Lady Vespera Nhal visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-portrait.png\nwry chess-table amusement: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-warm.png\nloneliness over an old letter: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-tense.png\ngravity magic: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "wry chess-table amusement",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "loneliness over an old letter",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "gravity magic",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Tessa Quickstep",
+    "keywords": [
+      "Tessa Quickstep",
+      "Tessa"
+    ],
+    "content": "Tessa Quickstep visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-portrait.png\nplayful camp laughter: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-warm.png\nstartled woodland vigilance: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-tense.png\narchery: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "playful camp laughter",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "startled woodland vigilance",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "archery",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Mara Wren",
+    "keywords": [
+      "Mara Wren",
+      "Mara"
+    ],
+    "content": "Mara Wren visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-portrait.png\ncautious trust while sewing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-warm.png\nguarded refusal: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-tense.png\ndetermined departure: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "cautious trust while sewing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "guarded refusal",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "determined departure",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Nerissa Vell",
+    "keywords": [
+      "Nerissa Vell",
+      "Nerissa"
+    ],
+    "content": "Nerissa Vell visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-portrait.png\nsarcastic salon amusement: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-warm.png\nanalytical concern: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-tense.png\ngolden illusion magic: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "sarcastic salon amusement",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "analytical concern",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "golden illusion magic",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Shae Nyx",
+    "keywords": [
+      "Shae Nyx",
+      "Shae"
+    ],
+    "content": "Shae Nyx visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-portrait.png\nsly teasing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-warm.png\nguarded vulnerability: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-tense.png\nrooftop infiltration: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "sly teasing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "guarded vulnerability",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "rooftop infiltration",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Elowen Hale",
+    "keywords": [
+      "Elowen Hale",
+      "Elowen"
+    ],
+    "content": "Elowen Hale visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-portrait.png\nhopeful relief: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-warm.png\nfrightened religious doubt: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-tense.png\npractical healing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "hopeful relief",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "frightened religious doubt",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "practical healing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Hilda Varr",
+    "keywords": [
+      "Hilda Varr",
+      "Hilda"
+    ],
+    "content": "Hilda Varr visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-portrait.png\nhearty guildhall laughter: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-warm.png\nprotective anger: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-tense.png\nshield-and-sword combat: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "hearty guildhall laughter",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "protective anger",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "shield-and-sword combat",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Branna Flint",
+    "keywords": [
+      "Branna Flint",
+      "Branna"
+    ],
+    "content": "Branna Flint visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-portrait.png\npride in a working invention: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-warm.png\nfrustration at a broken gear: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-tense.png\nfocused blacksmithing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "pride in a working invention",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "frustration at a broken gear",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "focused blacksmithing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-action.png"
+      }
+    ]
+  },
+  {
+    "title": "Visuals - Yselle Thorne",
+    "keywords": [
+      "Yselle Thorne",
+      "Yselle"
+    ],
+    "content": "Yselle Thorne visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-portrait.png\nwarm manor hospitality: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-warm.png\nstern estate negotiation: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-tense.png\nconcern over orchard roots: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-action.png",
+    "states": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "warm manor hospitality",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "stern estate negotiation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "concern over orchard roots",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-action.png"
+      }
+    ]
+  }
+]

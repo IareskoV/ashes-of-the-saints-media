@@ -1,0 +1,302 @@
+[
+  {
+    "character": "Vaerra Stormscar",
+    "slug": "vaerra",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-portrait.png",
+        "file": "images/vaerra-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "rare campfire smile",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-warm.png",
+        "file": "images/vaerra-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "angry confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-tense.png",
+        "file": "images/vaerra-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "stormy bridge battle",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-action.png",
+        "file": "images/vaerra-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Lady Vespera Nhal",
+    "slug": "vespera",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-portrait.png",
+        "file": "images/vespera-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "wry chess-table amusement",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-warm.png",
+        "file": "images/vespera-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "loneliness over an old letter",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-tense.png",
+        "file": "images/vespera-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "gravity magic",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-action.png",
+        "file": "images/vespera-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Tessa Quickstep",
+    "slug": "tessa",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-portrait.png",
+        "file": "images/tessa-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "playful camp laughter",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-warm.png",
+        "file": "images/tessa-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "startled woodland vigilance",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-tense.png",
+        "file": "images/tessa-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "archery",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-action.png",
+        "file": "images/tessa-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Mara Wren",
+    "slug": "mara",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-portrait.png",
+        "file": "images/mara-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "cautious trust while sewing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-warm.png",
+        "file": "images/mara-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "guarded refusal",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-tense.png",
+        "file": "images/mara-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "determined departure",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-action.png",
+        "file": "images/mara-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Nerissa Vell",
+    "slug": "nerissa",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-portrait.png",
+        "file": "images/nerissa-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "sarcastic salon amusement",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-warm.png",
+        "file": "images/nerissa-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "analytical concern",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-tense.png",
+        "file": "images/nerissa-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "golden illusion magic",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-action.png",
+        "file": "images/nerissa-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Shae Nyx",
+    "slug": "shae",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-portrait.png",
+        "file": "images/shae-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "sly teasing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-warm.png",
+        "file": "images/shae-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "guarded vulnerability",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-tense.png",
+        "file": "images/shae-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "rooftop infiltration",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-action.png",
+        "file": "images/shae-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Elowen Hale",
+    "slug": "elowen",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-portrait.png",
+        "file": "images/elowen-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "hopeful relief",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-warm.png",
+        "file": "images/elowen-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "frightened religious doubt",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-tense.png",
+        "file": "images/elowen-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "practical healing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-action.png",
+        "file": "images/elowen-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Hilda Varr",
+    "slug": "hilda",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-portrait.png",
+        "file": "images/hilda-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "hearty guildhall laughter",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-warm.png",
+        "file": "images/hilda-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "protective anger",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-tense.png",
+        "file": "images/hilda-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "shield-and-sword combat",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-action.png",
+        "file": "images/hilda-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Branna Flint",
+    "slug": "branna",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-portrait.png",
+        "file": "images/branna-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "pride in a working invention",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-warm.png",
+        "file": "images/branna-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "frustration at a broken gear",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-tense.png",
+        "file": "images/branna-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "focused blacksmithing",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-action.png",
+        "file": "images/branna-action.png"
+      }
+    ]
+  },
+  {
+    "character": "Yselle Thorne",
+    "slug": "yselle",
+    "images": [
+      {
+        "state": "portrait",
+        "meaning": "default portrait",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-portrait.png",
+        "file": "images/yselle-portrait.png"
+      },
+      {
+        "state": "warm",
+        "meaning": "warm manor hospitality",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-warm.png",
+        "file": "images/yselle-warm.png"
+      },
+      {
+        "state": "tense",
+        "meaning": "stern estate negotiation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-tense.png",
+        "file": "images/yselle-tense.png"
+      },
+      {
+        "state": "action",
+        "meaning": "concern over orchard roots",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-action.png",
+        "file": "images/yselle-action.png"
+      }
+    ]
+  }
+]
