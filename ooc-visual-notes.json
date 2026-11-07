@@ -2,10 +2,9 @@
   {
     "title": "Visuals - Vaerra Stormscar",
     "keywords": [
-      "Vaerra Stormscar",
       "Vaerra"
     ],
-    "content": "Vaerra Stormscar visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-portrait.png\nrare campfire smile: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-warm.png\nangry confrontation: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-tense.png\nstormy bridge battle: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-action.png",
+    "content": "Vaerra Stormscar visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-\nportrait=default portrait; warm=rare campfire smile; tense=angry confrontation; action=stormy bridge battle\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -26,16 +25,35 @@
         "state": "action",
         "meaning": "stormy bridge battle",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Lady Vespera Nhal",
     "keywords": [
-      "Lady Vespera Nhal",
       "Vespera"
     ],
-    "content": "Lady Vespera Nhal visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-portrait.png\nwry chess-table amusement: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-warm.png\nloneliness over an old letter: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-tense.png\ngravity magic: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-action.png",
+    "content": "Lady Vespera Nhal visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-\nportrait=default portrait; warm=wry chess-table amusement; tense=loneliness over an old letter; action=gravity magic\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -56,16 +74,35 @@
         "state": "action",
         "meaning": "gravity magic",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Tessa Quickstep",
     "keywords": [
-      "Tessa Quickstep",
       "Tessa"
     ],
-    "content": "Tessa Quickstep visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-portrait.png\nplayful camp laughter: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-warm.png\nstartled woodland vigilance: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-tense.png\narchery: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-action.png",
+    "content": "Tessa Quickstep visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-\nportrait=default portrait; warm=playful camp laughter; tense=startled woodland vigilance; action=archery\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -86,16 +123,35 @@
         "state": "action",
         "meaning": "archery",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Mara Wren",
     "keywords": [
-      "Mara Wren",
       "Mara"
     ],
-    "content": "Mara Wren visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-portrait.png\ncautious trust while sewing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-warm.png\nguarded refusal: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-tense.png\ndetermined departure: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-action.png",
+    "content": "Mara Wren visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-\nportrait=default portrait; warm=cautious trust while sewing; tense=guarded refusal; action=determined departure\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -116,16 +172,35 @@
         "state": "action",
         "meaning": "determined departure",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Nerissa Vell",
     "keywords": [
-      "Nerissa Vell",
       "Nerissa"
     ],
-    "content": "Nerissa Vell visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-portrait.png\nsarcastic salon amusement: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-warm.png\nanalytical concern: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-tense.png\ngolden illusion magic: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-action.png",
+    "content": "Nerissa Vell visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-\nportrait=default portrait; warm=sarcastic salon amusement; tense=analytical concern; action=golden illusion magic\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -146,16 +221,35 @@
         "state": "action",
         "meaning": "golden illusion magic",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Shae Nyx",
     "keywords": [
-      "Shae Nyx",
       "Shae"
     ],
-    "content": "Shae Nyx visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-portrait.png\nsly teasing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-warm.png\nguarded vulnerability: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-tense.png\nrooftop infiltration: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-action.png",
+    "content": "Shae Nyx visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-\nportrait=default portrait; warm=sly teasing; tense=guarded vulnerability; action=rooftop infiltration\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -176,16 +270,35 @@
         "state": "action",
         "meaning": "rooftop infiltration",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Elowen Hale",
     "keywords": [
-      "Elowen Hale",
       "Elowen"
     ],
-    "content": "Elowen Hale visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-portrait.png\nhopeful relief: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-warm.png\nfrightened religious doubt: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-tense.png\npractical healing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-action.png",
+    "content": "Elowen Hale visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-\nportrait=default portrait; warm=hopeful relief; tense=frightened religious doubt; action=practical healing\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -206,16 +319,35 @@
         "state": "action",
         "meaning": "practical healing",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Hilda Varr",
     "keywords": [
-      "Hilda Varr",
       "Hilda"
     ],
-    "content": "Hilda Varr visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-portrait.png\nhearty guildhall laughter: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-warm.png\nprotective anger: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-tense.png\nshield-and-sword combat: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-action.png",
+    "content": "Hilda Varr visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-\nportrait=default portrait; warm=hearty guildhall laughter; tense=protective anger; action=shield-and-sword combat\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -236,16 +368,35 @@
         "state": "action",
         "meaning": "shield-and-sword combat",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Branna Flint",
     "keywords": [
-      "Branna Flint",
       "Branna"
     ],
-    "content": "Branna Flint visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-portrait.png\npride in a working invention: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-warm.png\nfrustration at a broken gear: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-tense.png\nfocused blacksmithing: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-action.png",
+    "content": "Branna Flint visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-\nportrait=default portrait; warm=pride in a working invention; tense=frustration at a broken gear; action=focused blacksmithing\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -266,16 +417,35 @@
         "state": "action",
         "meaning": "focused blacksmithing",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-flustered.png"
       }
     ]
   },
   {
     "title": "Visuals - Yselle Thorne",
     "keywords": [
-      "Yselle Thorne",
       "Yselle"
     ],
-    "content": "Yselle Thorne visuals: only if physically present. Append at most ONE matching image after prose as ![](URL). Do not also emit a Media image. Skip repeats and mismatched scenes; never alter events to fit art.\nPortrait: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-portrait.png\nwarm manor hospitality: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-warm.png\nstern estate negotiation: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-tense.png\nconcern over orchard roots: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-action.png",
+    "content": "Yselle Thorne visuals, only when present. Use at most ONE image total per reply, after prose, as ![](URL). Build URL by joining BASE + one suffix + .png with no spaces.\nBASE: https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-\nportrait=default portrait; warm=warm manor hospitality; tense=stern estate negotiation; action=concern over orchard roots\nexcited=enthusiasm; flirty=chosen romantic teasing; angry=anger; flustered=shy blush.\nMatch the actual scene and relationship. No forced romance or events. Never invent suffixes. Skip repeated or mismatched images; do not also emit Media images.",
     "states": [
       {
         "state": "portrait",
@@ -296,6 +466,26 @@
         "state": "action",
         "meaning": "concern over orchard roots",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-flustered.png"
       }
     ]
   }

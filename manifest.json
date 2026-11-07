@@ -26,6 +26,30 @@
         "meaning": "stormy bridge battle",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-action.png",
         "file": "images/vaerra-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-excited.png",
+        "file": "images/vaerra-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-flirty.png",
+        "file": "images/vaerra-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-angry.png",
+        "file": "images/vaerra-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vaerra-flustered.png",
+        "file": "images/vaerra-flustered.png"
       }
     ]
   },
@@ -56,6 +80,30 @@
         "meaning": "gravity magic",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-action.png",
         "file": "images/vespera-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-excited.png",
+        "file": "images/vespera-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-flirty.png",
+        "file": "images/vespera-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-angry.png",
+        "file": "images/vespera-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/vespera-flustered.png",
+        "file": "images/vespera-flustered.png"
       }
     ]
   },
@@ -86,6 +134,30 @@
         "meaning": "archery",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-action.png",
         "file": "images/tessa-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-excited.png",
+        "file": "images/tessa-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-flirty.png",
+        "file": "images/tessa-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-angry.png",
+        "file": "images/tessa-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/tessa-flustered.png",
+        "file": "images/tessa-flustered.png"
       }
     ]
   },
@@ -116,6 +188,30 @@
         "meaning": "determined departure",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-action.png",
         "file": "images/mara-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-excited.png",
+        "file": "images/mara-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-flirty.png",
+        "file": "images/mara-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-angry.png",
+        "file": "images/mara-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/mara-flustered.png",
+        "file": "images/mara-flustered.png"
       }
     ]
   },
@@ -146,6 +242,30 @@
         "meaning": "golden illusion magic",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-action.png",
         "file": "images/nerissa-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-excited.png",
+        "file": "images/nerissa-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-flirty.png",
+        "file": "images/nerissa-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-angry.png",
+        "file": "images/nerissa-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/nerissa-flustered.png",
+        "file": "images/nerissa-flustered.png"
       }
     ]
   },
@@ -176,6 +296,30 @@
         "meaning": "rooftop infiltration",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-action.png",
         "file": "images/shae-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-excited.png",
+        "file": "images/shae-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-flirty.png",
+        "file": "images/shae-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-angry.png",
+        "file": "images/shae-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/shae-flustered.png",
+        "file": "images/shae-flustered.png"
       }
     ]
   },
@@ -206,6 +350,30 @@
         "meaning": "practical healing",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-action.png",
         "file": "images/elowen-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-excited.png",
+        "file": "images/elowen-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-flirty.png",
+        "file": "images/elowen-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-angry.png",
+        "file": "images/elowen-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/elowen-flustered.png",
+        "file": "images/elowen-flustered.png"
       }
     ]
   },
@@ -236,6 +404,30 @@
         "meaning": "shield-and-sword combat",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-action.png",
         "file": "images/hilda-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-excited.png",
+        "file": "images/hilda-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-flirty.png",
+        "file": "images/hilda-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-angry.png",
+        "file": "images/hilda-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/hilda-flustered.png",
+        "file": "images/hilda-flustered.png"
       }
     ]
   },
@@ -266,6 +458,30 @@
         "meaning": "focused blacksmithing",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-action.png",
         "file": "images/branna-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-excited.png",
+        "file": "images/branna-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-flirty.png",
+        "file": "images/branna-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-angry.png",
+        "file": "images/branna-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/branna-flustered.png",
+        "file": "images/branna-flustered.png"
       }
     ]
   },
@@ -296,6 +512,30 @@
         "meaning": "concern over orchard roots",
         "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-action.png",
         "file": "images/yselle-action.png"
+      },
+      {
+        "state": "excited",
+        "meaning": "enthusiastic anticipation or delight",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-excited.png",
+        "file": "images/yselle-excited.png"
+      },
+      {
+        "state": "flirty",
+        "meaning": "self-chosen playful romantic interest",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-flirty.png",
+        "file": "images/yselle-flirty.png"
+      },
+      {
+        "state": "angry",
+        "meaning": "clear anger or firm confrontation",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-angry.png",
+        "file": "images/yselle-angry.png"
+      },
+      {
+        "state": "flustered",
+        "meaning": "bashful surprise after a compliment",
+        "url": "https://raw.githubusercontent.com/IareskoV/ashes-of-the-saints-media/main/images/yselle-flustered.png",
+        "file": "images/yselle-flustered.png"
       }
     ]
   }
