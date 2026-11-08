@@ -2,7 +2,7 @@
 
 85 illustrations in a unified polished anime style: eight states for each of ten adult female characters, plus five male portraits.
 
-Created with built-in OpenAI ImageGen. Character identities, distinct emotions and scene settings are preserved. Nerissa uses her approved charcoal-skinned demon design; Vespera has a petite adult build.
+The ten heroines were illustrated locally in Draw Things with FLUX.2 Klein 4B, using Moodboard references for their faces and silhouettes. No character LoRA or IP-Adapter was used for these sets. The five original male portraits were created with OpenAI ImageGen.
 
 Use [manifest.json](manifest.json) for direct image URLs. Existing image paths remain unchanged. [OOC visual notes](ooc-visual-notes.json) contain the eight-state selection rules for the female cast.
 
